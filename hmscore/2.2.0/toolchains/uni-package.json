@@ -1,0 +1,9 @@
+{
+  "displayName": "Toolchains",
+  "meta": {
+    "metaVersion": "3.0.0"
+  },
+  "path": "toolchains",
+  "releaseType": "Release",
+  "version": "2.2.0.3"
+}
