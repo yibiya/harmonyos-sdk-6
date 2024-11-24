@@ -13,4 +13,4 @@ HarmonyOS SDK API 6 (HOS 2.2.0) for Java based development, to be used with DevE
 1. click the folder icon next to Location input field
 1. select folder from step 2, e.g. `D:\\HarmonyOS\SDK`
 1. click `apply` then `ok`
-1.download the "js-windows-2.2.0.3-Release.zip" and unzip it to the floder named as 2.2.0
+2. download the "js-windows-2.2.0.3-Release.zip" and unzip it to the floder named as 2.2.0
